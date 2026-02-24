@@ -20,6 +20,7 @@ function Chat() {
       message,
     });
     setMessage("");
+    
   };
 
   return (
