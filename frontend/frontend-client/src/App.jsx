@@ -19,7 +19,7 @@ function Box() {
     </mesh>
   )
 }
-
+//i am going to study animation and 3d modeling to create more complex and interactive 3D scenes in the future. This simple rotating box is just the beginning of what I can create with React Three Fiber.
 export default function App() {
   return (
     <Canvas>
